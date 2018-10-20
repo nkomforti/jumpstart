@@ -1,0 +1,6 @@
+.DS_Store
+secrets.sh
+.idea/
+env/
+venv/
+*.pyc
